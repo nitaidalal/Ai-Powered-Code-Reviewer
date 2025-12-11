@@ -105,7 +105,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  to = "/review"
+                  to="/review"
                   className="hover:text-blue-400 transition-colors"
                 >
                   Try Now
@@ -120,7 +120,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://github.com/nitaidalal/Full-stack-projects/tree/main/01_Ai_Powered_Code_Reviewer"
+                  href="https://github.com/nitaidalal/Ai-Powered-Code-Reviewer"
                   target="_blank"
                   className="hover:text-blue-400 transition-colors"
                 >
